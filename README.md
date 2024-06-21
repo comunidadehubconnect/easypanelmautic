@@ -39,7 +39,7 @@ Localize APP Mautic, clique nele
 
 Nessa tela, clique me Create
 
-![image](https://github.com/comunidadehubconnect/easypanelmautic/assets/91642837/c079c0f3-58a9-40c6-8f11-0f28ff2d793d)
+![image](https://github.com/comunidadehubconnect/easypanelmautic/assets/91642837/a8ffdf26-c72c-4864-861f-97d944048da5)
 
 Clique em Go to Project
 
